@@ -4,3 +4,4 @@
 * [Peytz & Co](http://peytz.dk)
 * [Webcoders](https://webcoders.dk)
 * [West Soft Development](https://www.westsoftdevelopment.dk)
+* [EduLab ApS](https://edulab.dk)
